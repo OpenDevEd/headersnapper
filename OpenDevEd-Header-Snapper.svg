@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="179.748mm" height="231.45mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 70.3452 90.5792" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style bx:fonts="Arial">@font-face { font-family: Arial; src: ; }</style>
+    <style bx:fonts="Eng_HelvLine">@font-face { font-family: Eng_HelvLine; src: ; }</style>
+    <style type="text/css">.str2 { stroke: rgb(255, 102, 0); stroke-width: 0.0298213; }.str0 { stroke: black; stroke-width: 0.0782711; }.str4 { stroke: rgb(255, 102, 0); stroke-width: 0.0782711; }.str1 { stroke-width: 8.99996; }.str3 { stroke-width: 18.0002; }.fil0 { fill: none; }.fil1 { fill: aqua; }.fnt1 { font-weight: normal; font-size: 1.65672px; font-family: Eng_HelvLine; }.fnt2 { font-weight: normal; font-size: 3.31349px; font-family: Arial; }.fnt0 { font-weight: normal; font-size: 3.31349px; font-family: Eng_HelvLine; }</style>
+  </defs>
+  <g id="Layer_x0020_1">
+    <g id="_120531376">
+      <title>spacer bar</title>
+      <g transform="matrix(-1, 0, 0, -1, 132.860321, -37.187355)">
+        <title>labels</title>
+        <text id="_120531688" class="fil0 str2 fnt1" style="font-family: Ubuntu; font-size: 3px; white-space: pre;" transform="matrix(-1, 0, 0, -1, 0, 0)" x="-132.86" y="37.187"><tspan x="-76.894" y="40.13" style="text-decoration: underline solid rgba(0, 0, 0, 0.8); font-size: 3px; word-spacing: 0px;">even</tspan></text>
+        <text id="_120531400" class="fil0 str2 fnt1" style="font-family: Ubuntu; font-size: 3px; white-space: pre;"><tspan x="92.038" y="-39.317" style="text-decoration: underline solid rgba(0, 0, 0, 0.8);">odd</tspan></text>
+        <text id="text-5" class="fil0 str2 fnt1" style="font-family: Ubuntu; font-size: 3px; white-space: pre;" transform="matrix(-1, 0, 0, -1, 0, 0)" x="-132.86" y="37.187"><tspan x="-76.894" y="40.13" style="text-decoration: underline solid rgba(0, 0, 0, 0.8); font-size: 3px; word-spacing: 0px;">even</tspan></text>
+      </g>
+      <polygon id="_120532000" class="fil0 str0" points="27.257,0.0391355 70.3061,0.0391355 70.3061,4.93108 27.257,4.93108 "/>
+      <g>
+        <circle id="_120531952" class="fil0 str0" cx="68.3493" cy="2.48511" r="0.606601"/>
+        <circle id="_120531904" class="fil0 str0" cx="64.3731" cy="2.48511" r="0.606601"/>
+      </g>
+      <line id="_120531808" class="fil0 str4" x1="66.3612" y1="0.0391355" x2="66.3612" y2="4.93108"/>
+      <circle id="_120531640" class="fil0 str0" cx="30.2078" cy="2.48511" r="0.606601"/>
+      <circle id="_120531592" class="fil0 str0" cx="34.184" cy="2.48511" r="0.606601"/>
+      <line id="_120531520" class="fil0 str4" x1="31.2019" y1="4.93108" x2="31.2019" y2="0.0391355"/>
+    </g>
+    <g id="_120532048">
+      <title>top plate</title>
+      <g style="" transform="matrix(1, 0, 0, 1.969204, 0, -21.468847)">
+        <title>0</title>
+        <line id="line-3" class="fil0 str4" x1="66.341" y1="17.259" x2="66.341" y2="22.151">
+          <title>0</title>
+        </line>
+      </g>
+      <g>
+        <title>2</title>
+        <text id="text-1" class="fil0 str2 fnt1" style="font-family: Ubuntu; font-size: 4px; white-space: pre;" transform="matrix(0, -1, 1, 0, 49.373001, 77.620621)" x="61.855" y="16.327" bx:origin="0.77931 0.5">2</text>
+        <line id="line-4" class="fil0 str4" x1="64.341" y1="17.259" x2="64.341" y2="22.151"/>
+      </g>
+      <g>
+        <title>6</title>
+        <text id="_120708376" class="fil0 str2 fnt1" style="font-family: Ubuntu; font-size: 4px; white-space: pre;" transform="matrix(0, -1, 1, 0, 45.473, 75.854996)" x="59.855" y="16.327">6</text>
+        <line id="_120708184" class="fil0 str4" x1="60.341" y1="17.259" x2="60.341" y2="22.151"/>
+      </g>
+      <g>
+        <title>10</title>
+        <text id="text-2" class="fil0 str2 fnt1" style="font-family: Ubuntu; font-size: 4px; white-space: pre;" transform="matrix(0, -1, 1, 0, 41.278999, 72.730804)" x="55.495" y="16.521">10</text>
+        <line id="line-2" class="fil0 str4" x1="56.401" y1="17.259" x2="56.401" y2="22.151">
+          <title>10</title>
+        </line>
+      </g>
+      <g>
+        <title>16</title>
+        <line id="_120707344" class="fil0 str4" x1="50.401" y1="17.259" x2="50.401" y2="22.151"/>
+        <text id="_120708256" class="fil0 str2 fnt1" style="font-family: Ubuntu; font-size: 4px; white-space: pre;" transform="matrix(0, -1, 1, 0, 35.278999, 66.717461)" x="49.495" y="16.521">16</text>
+      </g>
+      <g>
+        <title>20</title>
+        <text id="text-3" class="fil0 str2 fnt1" style="font-family: Ubuntu; font-size: 4px; white-space: pre;" transform="matrix(0, -1, 1, 0, 31.278999, 62.658813)" x="45.423" y="16.521">20</text>
+        <line id="line-1" class="fil0 str4" x1="46.401" y1="17.259" x2="46.401" y2="22.151">
+          <title>20</title>
+        </line>
+      </g>
+      <g>
+        <title>26</title>
+        <text id="_120707224" class="fil0 str2 fnt1" style="font-family: Ubuntu; font-size: 4px; white-space: pre;" transform="matrix(0, -1, 1, 0, 25.278999, 56.658813)" x="39.423" y="16.521">26</text>
+        <line id="_120707152" class="fil0 str4" x1="40.46" y1="17.259" x2="40.46" y2="22.151"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 6, 0)">
+        <title>30</title>
+        <line id="line-7" class="fil0 str4" x1="30.52" y1="17.259" x2="30.52" y2="22.151"/>
+        <text id="text-4" class="fil0 str2 fnt1" style="font-family: Ubuntu; font-size: 4px; white-space: pre;" transform="matrix(0, -1, 1, 0, 15.279, 46.724819)" x="29.489" y="16.521">30</text>
+      </g>
+      <g>
+        <title>36</title>
+        <line id="_120532192" class="fil0 str4" x1="30.52" y1="17.259" x2="30.52" y2="22.151"/>
+        <text id="_120532072" class="fil0 str2 fnt1" style="font-family: Ubuntu; font-size: 4px; white-space: pre;" transform="matrix(0, -1, 1, 0, 15.279, 46.724815)" x="29.489" y="16.521">36</text>
+      </g>
+      <text id="_120708544" class="fil0 str2 fnt0" style="font-family: Ubuntu; font-size: 3.3px; white-space: pre;" x="29.538" y="26.949">OpenDevEd.net/snapper</text>
+      <path id="_120708496" class="fil0 str0" d="M27.257 31.4454l0 -23.4813c0,-1.08053 0.876245,-1.95678 1.95678,-1.95678l39.1355 0c1.08053,0 1.95678,0.876245 1.95678,1.95678l0 23.4813c0,1.08053 -0.876245,1.95678 -1.95678,1.95678l-39.1355 0c-1.08053,0 -1.95678,-0.876245 -1.95678,-1.95678z"/>
+      <g>
+        <title>Small Circles</title>
+        <circle id="_120708112" class="fil0 str0" cx="62.3293" cy="19.7047" r="0.606601"/>
+        <circle id="_120708064" class="fil0 str0" cx="52.3889" cy="19.7047" r="0.606601"/>
+        <circle id="_120708016" class="fil0 str0" cx="60.3412" cy="19.7047" r="0.606601"/>
+        <circle id="_120707968" class="fil0 str0" cx="58.3531" cy="19.7047" r="0.606601"/>
+        <circle id="_120707920" class="fil0 str0" cx="56.365" cy="19.7047" r="0.606601"/>
+        <circle id="_120707872" class="fil0 str0" cx="54.3769" cy="19.7047" r="0.606601"/>
+        <circle id="_120707824" class="fil0 str0" cx="50.4008" cy="19.7047" r="0.606601"/>
+        <circle id="_120707776" class="fil0 str0" cx="48.4127" cy="19.7047" r="0.606601"/>
+        <circle id="_120707728" class="fil0 str0" cx="46.4246" cy="19.7047" r="0.606601"/>
+        <circle id="_120707680" class="fil0 str0" cx="44.4365" cy="19.7047" r="0.606601"/>
+        <circle id="_120707632" class="fil0 str0" cx="42.4484" cy="19.7047" r="0.606601"/>
+        <circle id="_120707584" class="fil0 str0" cx="40.4603" cy="19.7047" r="0.606601"/>
+        <circle id="_120707536" class="fil0 str0" cx="38.4723" cy="19.7047" r="0.606601"/>
+        <circle id="_120707488" class="fil0 str0" cx="64.3174" cy="19.7047" r="0.606601"/>
+        <circle id="_120707440" class="fil0 str0" cx="66.3055" cy="19.7047" r="0.606601"/>
+        <circle id="_120532408" class="fil0 str0" cx="36.484" cy="19.705" r="0.607"/>
+        <circle id="_120532360" class="fil0 str0" cx="34.496" cy="19.705" r="0.607"/>
+        <circle id="_120532312" class="fil0 str0" cx="32.508" cy="19.705" r="0.607"/>
+        <circle id="_120532264" class="fil0 str0" cx="30.52" cy="19.705" r="0.607"/>
+      </g>
+      <g>
+        <title>munting holes</title>
+        <circle id="_120532624" class="fil0 str0" cx="67.1752" cy="30.2713" r="1.17404"/>
+        <circle id="_120532576" class="fil0 str0" cx="30.3878" cy="30.2713" r="1.17404"/>
+        <circle id="_120532528" class="fil0 str0" cx="30.3878" cy="9.13815" r="1.17404"/>
+        <circle id="_120532480" class="fil0 str0" cx="67.1752" cy="9.13815" r="1.17404"/>
+      </g>
+    </g>
+    <g id="_120708664">
+      <title>standoffs</title>
+      <path class="fil0 str0" d="M 27.257 88.583 L 27.257 79.289 L 70.306 79.289 L 70.306 88.583 C 70.306 89.664 69.43 90.54 68.349 90.54 L 29.214 90.54 C 28.133 90.54 27.257 89.664 27.257 88.583 Z M 27.257 74.397 L 27.257 65.102 C 27.257 64.021 28.133 63.145 29.214 63.145 L 68.349 63.145 C 69.43 63.145 70.306 64.021 70.306 65.102 L 70.306 74.397 L 27.257 74.397 Z"/>
+      <circle id="_120708832" class="fil0 str0" cx="67.1752" cy="87.4092" r="1.17404"/>
+      <circle id="_120708784" class="fil0 str0" cx="30.3878" cy="87.4092" r="1.17404"/>
+      <circle id="_120708736" class="fil0 str0" cx="30.3878" cy="66.276" r="1.17404"/>
+      <circle id="_120708688" class="fil0 str0" cx="67.1752" cy="66.276" r="1.17404"/>
+    </g>
+    <g id="_120708928">
+      <title>Bottom plate</title>
+      <path id="_120766272" class="fil0 str0" d="M27.257 60.0143l0 -23.4813c0,-1.08053 0.876245,-1.95678 1.95678,-1.95678l39.1355 0c1.08053,0 1.95678,0.876245 1.95678,1.95678l0 23.4813c0,1.08053 -0.876245,1.95678 -1.95678,1.95678l-39.1355 0c-1.08053,0 -1.95678,-0.876245 -1.95678,-1.95678z"/>
+      <g>
+        <circle id="_120766224" class="fil0 str0" cx="62.3293" cy="48.2737" r="0.606601"/>
+        <circle id="_120766176" class="fil0 str0" cx="52.3889" cy="48.2737" r="0.606601"/>
+        <circle id="_120766128" class="fil0 str0" cx="60.3412" cy="48.2737" r="0.606601"/>
+        <circle id="_120766080" class="fil0 str0" cx="58.3531" cy="48.2737" r="0.606601"/>
+        <circle id="_120766032" class="fil0 str0" cx="56.365" cy="48.2737" r="0.606601"/>
+        <circle id="_120765984" class="fil0 str0" cx="54.3769" cy="48.2737" r="0.606601"/>
+        <circle id="_120765936" class="fil0 str0" cx="50.4008" cy="48.2737" r="0.606601"/>
+        <circle id="_120765888" class="fil0 str0" cx="48.4127" cy="48.2737" r="0.606601"/>
+        <circle id="_120765840" class="fil0 str0" cx="46.4246" cy="48.2737" r="0.606601"/>
+        <circle id="_120765792" class="fil0 str0" cx="44.4365" cy="48.2737" r="0.606601"/>
+        <circle id="_120765744" class="fil0 str0" cx="42.4484" cy="48.2737" r="0.606601"/>
+        <circle id="_120765696" class="fil0 str0" cx="40.4603" cy="48.2737" r="0.606601"/>
+        <circle id="_120765648" class="fil0 str0" cx="38.4723" cy="48.2737" r="0.606601"/>
+        <circle id="_120765600" class="fil0 str0" cx="64.3174" cy="48.2737" r="0.606601"/>
+        <circle id="_120765552" class="fil0 str0" cx="66.3055" cy="48.2737" r="0.606601"/>
+      </g>
+      <g>
+        <circle id="_120709120" class="fil0 str0" cx="67.1752" cy="58.8403" r="1.17404"/>
+        <circle id="_120709072" class="fil0 str0" cx="30.3878" cy="58.8403" r="1.17404"/>
+        <circle id="_120709024" class="fil0 str0" cx="30.3878" cy="37.7071" r="1.17404"/>
+        <circle id="_120708976" class="fil0 str0" cx="67.1752" cy="37.7071" r="1.17404"/>
+      </g>
+    </g>
+  </g>
+</svg>
