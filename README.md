@@ -9,10 +9,9 @@ Parts list:
 * M3 x 16 mm machine screw x2
 * M3 nut x2
 
-
 # Licence
 
-Licence: http://creativecommons.org/licenses/by-sa/3.0/.
+The design for the OpenDevEd header snapper is available under: http://creativecommons.org/licenses/by-sa/3.0/.
 
 # Creative Commons Attribution
 
